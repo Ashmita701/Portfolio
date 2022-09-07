@@ -1,0 +1,29 @@
+{
+  "experiences": [
+    {
+      "title": "Software Engineer",
+      "subtitle": "Asterdio.Inc, Sankhamul, Lalitpur",
+      "workType": "Full-time",
+      "workDescription": [
+        "Frontend Developer",
+        "Mobile App Development using React Native",
+        "Building products using React, Typescript, Redux , Next JS",
+        "Translating designs and wireframes into high-quality code"
+      ],
+      "dateText": "December 2021 – Present"
+    },
+    {
+      "title": "Software Engineer",
+      "subtitle": "Pro-mech Minds and Engineering Services, Jwagal, Lalitpur",
+      "workType": "Full-time",
+      "workDescription": [
+        "React JS Developer",
+        "Worked as Full-Stack Developer using React JS, Express JS and Mongo DB.",
+        "Mobile App Development using React Native",
+        "Worked on Dot Net Framework(C#)",
+        "Mobile App Development using React Native"
+      ],
+      "dateText": "January 2020 - November 2021"
+    }
+  ]
+}
