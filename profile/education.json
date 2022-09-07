@@ -1,0 +1,19 @@
+{
+    "education":[
+        {
+            "title": "2015 - 2019",
+            "cardTitle": "Bachelors in Computer Engineering",
+            "cardSubtitle":"Kathmandu Engineering College, Kalimati, Kathmandu",
+            "cardDetailedText": "",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },
+        {
+            "title": "2013-2015",
+            "cardTitle": "High School",
+            "cardSubtitle":"Kathmandu Model College,Bagbazar, Kathmandu",
+            "cardDetailedText": ""
+        }
+    ]
+}
