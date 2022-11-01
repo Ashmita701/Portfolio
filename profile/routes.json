@@ -10,11 +10,7 @@
       "path": "/skills",
       "headerTitle": "Skills"
     },
-    {
-      "component": "Projects",
-      "path": "/projects",
-      "headerTitle": "Projects"
-    },
+
     {
       "component": "Education",
       "path": "/education",
